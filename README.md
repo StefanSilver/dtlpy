@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/github/license/dataloop-ai/dtlpy.svg)](https://github.com/dataloop-ai/dtlpy/blob/master/LICENSE)
 [![Downloads](https://static.pepy.tech/personalized-badge/dtlpy?period=total&units=international_system&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/dtlpy)
 
-This sss is the SDK and CLI open source repository for [Dataloop.ai](https://dataloop.ai/) platform
+This is the SDK and CLI open source repository for [Dataloop.ai](https://dataloop.ai/) platform
 
 For full platform documentation click [here](https://dataloop.ai/docs)
 
